@@ -1,4 +1,4 @@
-# flask_project
+# Flask Project With SQLite3 and JWT
 
 
-A simple Flask application with support for Sqlite3
+A simple Flask application with support for SQLite3. This application also uses authentication with JWT.
